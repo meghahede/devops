@@ -1,0 +1,9 @@
+#!/bin/bash
+
+----------------------------
+Megha is an amazing girl
+Megha is very intelligent
+Megha is a very lucky person 
+Megha is a very happy person
+Megha lives in Bidar
+----------------------------
