@@ -21,7 +21,5 @@ Google LLC is an American multinational technology company
  search engine technology, cloud computing, computer software,
  quantum computing, e-commerce, and consumer electronics.
 
-this is to practice git pull command in local repository
-
 -----------------------------------------------------------
 
