@@ -1,0 +1,6 @@
+#!/bin/bash
+
+Start by washing your face twice a day 
+with a gentle cleanser to remove excess 
+oil from your skin. If that doesn't work, 
+try an over-the-counter 
