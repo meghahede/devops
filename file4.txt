@@ -1,5 +1,5 @@
 #!/bin/bash
 
-today i have created a repository in github and 
-this is my first file
+this file is to build a new free style project in jenkins 
+and build it successfully
 -----------------------------------------------
